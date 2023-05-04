@@ -7,7 +7,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
         LinkedList<Place> places = new LinkedList<>();
 
         addPlace(places, new Place("Adelaide", 1374));
